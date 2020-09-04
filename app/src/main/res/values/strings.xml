@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FininTask</string>
+    <string name="retry">Retry</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="ups">Oops!</string>
+    <string name="no_internet">No Internet!</string>
+    <string name="failure_window_subtitle">Something went wrong. make sure you are connected to the internet.</string>
+
+</resources>
